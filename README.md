@@ -8,7 +8,7 @@ Java 11, Spring Boot 2.7, Spring Data JPA, H2
 
 ## Run
 Run `JobtrackrApplication` from your IDE, or `./mvnw spring-boot:run`.
-API base URL: http://localhost:8080/api/applications
+API base URL: http://localhost:8081/api/applications
 
 ## Endpoints
 | Method | URL | Description |
